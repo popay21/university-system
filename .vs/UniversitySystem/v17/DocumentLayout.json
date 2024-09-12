@@ -1,0 +1,579 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|c:\\users\\shraga\\onedrive\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full stack ui -.net\\universitysystem\\universitysystem\\forms\\registercourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\registercourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\addeditcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\addeditcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\mainfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\mainfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\composemessageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\composemessageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\managegradesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\managegradesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\messagedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\messagedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\updatepersonalinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\updatepersonalinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\mainfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\mainfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\mainfrom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\mainfrom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\models\\databasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\models\\databasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\addeditcourseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\addeditcourseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\addeditcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\addeditcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\registercourseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\registercourseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\composemessageform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\composemessageform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\composemessageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\composemessageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\registercourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\registercourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\managegradesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\managegradesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\models\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\models\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\models\\departmenthead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\models\\departmenthead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\messagedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\messagedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\updatepersonalinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\updatepersonalinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\forms\\updatepersonalinfoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\forms\\updatepersonalinfoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\universitysystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECDDF071-2925-4E2F-AAD8-32D29AFFCCFB}|UniversitySystem\\UniversitySystem.csproj|solutionrelative:universitysystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainFrom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\MainFrom.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\MainFrom.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\MainFrom.cs [Design]",
+              "RelativeToolTip": "UniversitySystem\\Forms\\MainFrom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:45:58.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEditCourseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\AddEditCourseForm.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\AddEditCourseForm.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\AddEditCourseForm.cs [Design]",
+              "RelativeToolTip": "UniversitySystem\\Forms\\AddEditCourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:20:45.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterCourseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\RegisterCourseForm.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\RegisterCourseForm.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\RegisterCourseForm.cs [Design]",
+              "RelativeToolTip": "UniversitySystem\\Forms\\RegisterCourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:43:44.897Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComposeMessageForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\ComposeMessageForm.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\ComposeMessageForm.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\ComposeMessageForm.cs [Design]",
+              "RelativeToolTip": "UniversitySystem\\Forms\\ComposeMessageForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:55:15.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "UniversitySystem\\Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:55:59.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageGradesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\ManageGradesForm.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\ManageGradesForm.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\ManageGradesForm.cs [Design]",
+              "RelativeToolTip": "UniversitySystem\\Forms\\ManageGradesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:45:24.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageDetailsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\MessageDetailsForm.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\MessageDetailsForm.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\MessageDetailsForm.cs [Design]",
+              "RelativeToolTip": "UniversitySystem\\Forms\\MessageDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:44:20.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "UniversitySystem\\Forms\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:43:07.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdatePersonalInfoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\UpdatePersonalInfoForm.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\UpdatePersonalInfoForm.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\UpdatePersonalInfoForm.cs [Design]",
+              "RelativeToolTip": "UniversitySystem\\Forms\\UpdatePersonalInfoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:42:42.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainFrom.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\MainFrom.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\MainFrom.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\MainFrom.cs",
+              "RelativeToolTip": "UniversitySystem\\Forms\\MainFrom.cs",
+              "ViewState": "AgIAALsBAAAAAAAAAAAiwNIBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:45:59.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainFrom.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\MainFrom.Designer.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\MainFrom.Designer.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\MainFrom.Designer.cs",
+              "RelativeToolTip": "UniversitySystem\\Forms\\MainFrom.Designer.cs",
+              "ViewState": "AgIAAD4CAAAAAAAAAAAAACsCAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:11:29.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatabaseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Models\\DatabaseHandler.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Models\\DatabaseHandler.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Models\\DatabaseHandler.cs",
+              "RelativeToolTip": "UniversitySystem\\Models\\DatabaseHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:58:08.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddEditCourseForm.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\AddEditCourseForm.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\AddEditCourseForm.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\AddEditCourseForm.cs",
+              "RelativeToolTip": "UniversitySystem\\Forms\\AddEditCourseForm.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAGEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:06:31.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "UniversitySystem\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAtwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:47:03.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\RegisterForm.cs",
+              "RelativeToolTip": "UniversitySystem\\Forms\\RegisterForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:43:08.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\RegisterForm.Designer.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "UniversitySystem\\Forms\\RegisterForm.Designer.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAswE8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:12:52.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddEditCourseForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\AddEditCourseForm.Designer.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\AddEditCourseForm.Designer.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\AddEditCourseForm.Designer.cs",
+              "RelativeToolTip": "UniversitySystem\\Forms\\AddEditCourseForm.Designer.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAWwJcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:35:39.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Models\\Course.cs",
+              "RelativeToolTip": "UniversitySystem\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:57:54.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterCourseForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\RegisterCourseForm.Designer.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\RegisterCourseForm.Designer.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\RegisterCourseForm.Designer.cs",
+              "RelativeToolTip": "UniversitySystem\\Forms\\RegisterCourseForm.Designer.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAowGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:59:48.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\LoginForm.Designer.cs",
+              "RelativeToolTip": "UniversitySystem\\Forms\\LoginForm.Designer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:04:06.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Models\\Message.cs",
+              "RelativeToolTip": "UniversitySystem\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:59:05.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ComposeMessageForm.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\ComposeMessageForm.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\ComposeMessageForm.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\ComposeMessageForm.cs",
+              "RelativeToolTip": "UniversitySystem\\Forms\\ComposeMessageForm.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:07:01.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ComposeMessageForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\ComposeMessageForm.Designer.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\ComposeMessageForm.Designer.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\ComposeMessageForm.Designer.cs",
+              "RelativeToolTip": "UniversitySystem\\Forms\\ComposeMessageForm.Designer.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAWwIEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:40:08.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterCourseForm.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\RegisterCourseForm.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\RegisterCourseForm.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\RegisterCourseForm.cs",
+              "RelativeToolTip": "UniversitySystem\\Forms\\RegisterCourseForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:43:46.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ManageGradesForm.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\ManageGradesForm.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\ManageGradesForm.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\ManageGradesForm.cs",
+              "RelativeToolTip": "UniversitySystem\\Forms\\ManageGradesForm.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:45:25.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DataInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Models\\DataInitializer.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Models\\DataInitializer.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Models\\DataInitializer.cs",
+              "RelativeToolTip": "UniversitySystem\\Models\\DataInitializer.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAmwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:58:21.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DepartmentHead.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Models\\DepartmentHead.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Models\\DepartmentHead.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Models\\DepartmentHead.cs",
+              "RelativeToolTip": "UniversitySystem\\Models\\DepartmentHead.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:58:33.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Models\\Lecturer.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Models\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Models\\Lecturer.cs",
+              "RelativeToolTip": "UniversitySystem\\Models\\Lecturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:58:52.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Models\\Student.cs",
+              "RelativeToolTip": "UniversitySystem\\Models\\Student.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA4wDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:59:35.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Models\\Person.cs",
+              "RelativeToolTip": "UniversitySystem\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:59:20.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Program.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Program.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Program.cs",
+              "RelativeToolTip": "UniversitySystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:26:04.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MessageDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\MessageDetailsForm.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\MessageDetailsForm.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\MessageDetailsForm.cs",
+              "RelativeToolTip": "UniversitySystem\\Forms\\MessageDetailsForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:44:21.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UpdatePersonalInfoForm.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\UpdatePersonalInfoForm.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\UpdatePersonalInfoForm.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\UpdatePersonalInfoForm.cs",
+              "RelativeToolTip": "UniversitySystem\\Forms\\UpdatePersonalInfoForm.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAmwFYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:42:44.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdatePersonalInfoForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\UpdatePersonalInfoForm.Designer.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Forms\\UpdatePersonalInfoForm.Designer.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Forms\\UpdatePersonalInfoForm.Designer.cs",
+              "RelativeToolTip": "UniversitySystem\\Forms\\UpdatePersonalInfoForm.Designer.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAswIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:17:22.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Form1.cs",
+              "RelativeDocumentMoniker": "UniversitySystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\shraga\\OneDrive\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\full Stack UI -.NET\\UniversitySystem\\UniversitySystem\\Form1.cs [Design]",
+              "RelativeToolTip": "UniversitySystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:51:47.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
